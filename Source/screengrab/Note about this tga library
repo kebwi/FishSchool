@@ -1,0 +1,8 @@
+The files in here were taken from the ScreenShot example at http://www.robthebloke.org/opengl_programming.html.
+
+Some modifications have been made.  Most importantly, I added compressed tga functionality (function WriteTgaRLE()) where the original library only had uncompressed tga functionality (function WriteTga()).
+
+Keith Wiley
+kwiley@cs.unm.edu
+http//www.cs.unm.edu/~kwiley
+060316
